@@ -1,0 +1,29 @@
+/*
+Esse é o arquivo CSS.
+Você pode colocar um código numa tag pelo nome da tag, pelo id dela, pela classe (de um grupo de tags).
+*/
+
+body{
+  /* TAG */
+  /*background: #eeff00;*/
+}
+
+#id{
+ /* ID */
+}
+
+.class {
+ /* CLASS */
+}
+
+a{
+  /* a */
+}
+
+a:hover{
+ /* Estados */
+}
+
+header a{
+ /* Nesting */
+}
