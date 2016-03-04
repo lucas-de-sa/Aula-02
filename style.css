@@ -5,11 +5,49 @@ Você pode colocar um código numa tag pelo nome da tag, pelo id dela, pela clas
 
 body{
   /* TAG */
-  /*background: #eeff00;*/
+  background:  url("bg.jpg");
 }
 
-#id{
- /* ID */
+section{
+	color: #FFF;
+	display: block;
+
+ 	margin: 0px;
+ 	padding-left: 50px
+ 	padding-right: 50px;
+}
+
+#cab{
+	color: #FFF;
+	text-shadow: 2px 2px #FF0000;	
+}
+
+#tit{
+	text-align: center
+}
+
+#latin{
+	text-shadow: none;
+	text-align: center
+
+}
+
+#listas{
+	color: #FFF;
+	text-shadow: 2px 2px #FF0000;
+}
+
+#link{
+	color: #FFF;
+	text-shadow: 2px 2px #FF0000;
+}
+
+#elements{
+	color: #FFF;
+}
+
+tabela1{
+	color: #FFF;
 }
 
 .class {
